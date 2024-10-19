@@ -1,0 +1,62 @@
+[
+    {
+        "id": 8,
+        "nombreSuperheroe": "Batman",
+        "nombreReal": "Bruce Wayne",
+        "nombreSociedad": "Justice League",
+        "planetaOrigen": "Tierra",
+        "debilidad": "Ninguna",
+        "poder": "Inteligencia",
+        "habilidadEspecial": "Experto en artes marciales",
+        "aliado": "Robin",
+        "enemigo": "Joker"
+    },
+    {
+        "id": 9,
+        "nombreSuperheroe": "Luz de Luna",
+        "nombreReal": "Melina MataReyes",
+        "nombreSociedad": "Guardianes de la Luz",
+        "planetaOrigen": "Marte",
+        "debilidad": "Sombras",
+        "poder": "Manipulación de la luz",
+        "habilidadEspecial": "Curación",
+        "aliado": "SuperVilma",
+        "enemigo": "El Oscuro"
+    },
+    {
+        "id": 10,
+        "nombreSuperheroe": "Dr. Espiral",
+        "nombreReal": "Evelyn Spiral",
+        "nombreSociedad": "Villanos de la Noche",
+        "planetaOrigen": "Criptonita",
+        "debilidad": "Luz brillante",
+        "poder": "Control del tiempo",
+        "habilidadEspecial": "Teletransportación",
+        "aliado": "El Caos",
+        "enemigo": "SuperVilma"
+    },
+    {
+        "id": 11,
+        "nombreSuperheroe": "El Hechicero",
+        "nombreReal": "Salvador Ríos",
+        "nombreSociedad": "Villanos de la Noche",
+        "planetaOrigen": "Tierra",
+        "debilidad": "Espejos",
+        "poder": "Magia negra",
+        "habilidadEspecial": "Ilusionismo",
+        "aliado": "Dr. Espiral",
+        "enemigo": "Luz de Luna"
+    },
+    {
+        "id": 12,
+        "nombreSuperheroe": "El Destructor",
+        "nombreReal": "Raúl Pérez",
+        "nombreSociedad": "Villanos de la Noche",
+        "planetaOrigen": "Tierra",
+        "debilidad": "Compasión",
+        "poder": "Fuerza descomunal",
+        "habilidadEspecial": "Destrucción masiva",
+        "aliado": "La Sombra",
+        "enemigo": "El Guardián"
+    }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "nombreSuperheroe": "Spiderman",
+    "nombreReal": "Peter Parker",
+    "nombreSociedad": "Avengers",
+    "planetaOrigen": "Tierra",
+    "debilidad": "Ética moral",
+    "poder": "Agilidad sobrehumana, lanzar telarañas",
+    "habilidadEspecial": "Sentido arácnido",
+    "aliado": "Iron Man",
+    "enemigo": "Duende Verde"
+  },
+  {
+    "id": 2,
+    "nombreSuperheroe": "Iron Man",
+    "nombreReal": "Tony Stark",
+    "nombreSociedad": "Avengers",
+    "planetaOrigen": "Tierra",
+    "debilidad": "Su corazón",
+    "poder": "Armadura avanzada",
+    "habilidadEspecial": "Genio inventor, multimillonario",
+    "aliado": "Capitán América",
+    "enemigo": "Mandarín"
+  },
+  {
+    "id": 3,
+    "nombreSuperheroe": "Thor",
+    "nombreReal": "Thor Odinson",
+    "nombreSociedad": "Avengers",
+    "planetaOrigen": "Asgard",
+    "debilidad": "Arrogancia",
+    "poder": "Control sobre el trueno y relámpagos",
+    "habilidadEspecial": "Fuerza sobrehumana, inmortalidad",
+    "aliado": "Loki",
+    "enemigo": "Hela"
+  },
+  {
+    "id": 4,
+    "nombreSuperheroe": "Black Widow",
+    "nombreReal": "Natasha Romanoff",
+    "nombreSociedad": "Avengers",
+    "planetaOrigen": "Tierra",
+    "debilidad": "Su pasado",
+    "poder": "Maestra en combate cuerpo a cuerpo",
+    "habilidadEspecial": "Espionaje avanzado",
+    "aliado": "Hawkeye",
+    "enemigo": "Taskmaster"
+  },
+  {
+    "id": 5,
+    "nombreSuperheroe": "Hulk",
+    "nombreReal": "Bruce Banner",
+    "nombreSociedad": "Avengers",
+    "planetaOrigen": "Tierra",
+    "debilidad": "Incapacidad para controlar la ira",
+    "poder": "Fuerza ilimitada",
+    "habilidadEspecial": "Resistencia sobrehumana",
+    "aliado": "Viuda Negra",
+    "enemigo": "Abominación"
+  },
+  {
+    "id": 6,
+    "nombreSuperheroe": "Capitán América",
+    "nombreReal": "Steve Rogers",
+    "nombreSociedad": "Avengers",
+    "planetaOrigen": "Tierra",
+    "debilidad": "Sentido del deber",
+    "poder": "Fuerza sobrehumana",
+    "habilidadEspecial": "Habilidades tácticas y de combate",
+    "aliado": "Iron Man",
+    "enemigo": "Cráneo Rojo"
+  },
+  {
+    "id": 7,
+    "nombreSuperheroe": "Doctor Strange",
+    "nombreReal": "Stephen Strange",
+    "nombreSociedad": "Avengers",
+    "planetaOrigen": "Tierra",
+    "debilidad": "Arrogancia",
+    "poder": "Magia avanzada, control del tiempo",
+    "habilidadEspecial": "Manipulación de hechizos místicos",
+    "aliado": "Wong",
+    "enemigo": "Dormammu"
+  }
+]
